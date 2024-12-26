@@ -1,0 +1,29 @@
+.container{
+    background-color:aliceblue;
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    position: relative;
+
+}
+.modal-box{
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    width: 400px;
+    background-color:white;
+    padding: 5px;
+}
+.modal-container{
+ position: fixed;
+ top: 0;left: 0;right: 0;bottom: 0;
+ background-color:rgba(0,0,0,0.4);
+    }
+
+.cros{
+    width: 10px;
+    margin-left: 5px;
+    color:red
+}

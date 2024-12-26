@@ -1,0 +1,16 @@
+.whether-page{
+    background-color: antiquewhite;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: start;
+    justify-content: center;
+}
+.app-container{
+    background-color: aliceblue;
+display: flex;
+width: 60%;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+}
